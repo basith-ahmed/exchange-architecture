@@ -142,7 +142,7 @@ trading-platform/
 │   ├── main/
 │   │   ├── java/
 │   │   │   ├── com/
-│   │   │   │   ├── yourcompany/
+│   │   │   │   ├── bascorp/
 │   │   │   │   │   ├── trading/
 │   │   │   │   │   │   ├── engine/
 │   │   │   │   │   │   │   ├── TradingEngine.java
