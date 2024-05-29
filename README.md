@@ -135,7 +135,8 @@
 ### Deployment
 - Use Docker
 
-##Structure
+## Structure
+
 trading-platform/
 │
 ├── src/
