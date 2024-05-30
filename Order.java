@@ -6,8 +6,7 @@ public class Order {
     private OrderType type;
     private OrderStatus status;
 
-    //Getters and setters
-  
+    //Add getters and setters
 }
 
 enum OrderType {
